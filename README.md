@@ -1,4 +1,4 @@
-# komorebi 木漏れ日 - Awesome profile-cards
+# KOMOREBI 木漏れ日 - Awesome profile-cards
 
 Komorebi es un concepto japonés que representa la luz del sol al pasar a través de las hojas de los árboles, que es precisamente lo que pretendemos ser las adalabers en el mundo de la tecnología. 
 
