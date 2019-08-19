@@ -4,8 +4,8 @@ Komorebi es un concepto japonés que representa la luz del sol al pasar a travé
 
 Queremos ser esa luz en el bosque; esa luz que ilumina el camino. Queremos ganar presencia demostrando nuestra valía y conocimientos para que las que las futuras generaciones tengan un referente en el que apoyarse, del mismo modo en que nosotras hemos tenido con mujeres como Ada Lovelace o Grace Murray.
 
-Por eso hemos creado esta aplicación que nos permite hacernos visibles a través de la creación de tarjetas de visita en las que incluir nuestro puesto de trabajo y datos de contacto. </br>
-
+Por eso hemos creado esta aplicación que nos permite hacernos visibles a través de la creación de tarjetas de visita en las que incluir nuestro puesto de trabajo y datos de contacto. 
+</br>
 
 **Resumen:** </br>
 En este proyecto vamos a realizar una aplicación web que nos permite crear una tarjeta de visita personalizada. En la página web podemos introducir nuestros datos profesionales y obtener una vista maquetada con esta información. Lo bueno de este proyecto es que será una herramienta de la que os podréis beneficiar. Será una aplicación web interactiva creada por vosotras y que podéis usar para crear vuestras propias tarjetas de visita profesionales.
