@@ -12,12 +12,12 @@ En este proyecto vamos a realizar una aplicación web que nos permite crear una 
 
 **Objetivos:** </br>
 1. Aprender los conceptos básicos de programación (variables, estructuras de datos, condicionales, funciones, etc.)
-- Comprender cómo manipular el DOM de una página y responder a eventos del usuario
-- Manejar estructuras de datos complejas, con arrays y objetos 
-- Realizar peticiones al servidor y almacenar datos en local 
-- Implementar Scrum como marco de referencia para el desarrollo del producto, basándonos siempre en los valores de Agile como puntos clave del trabajo en equipo y la mejora continua 
-- Mejorar la comunicación entre los miembros del equipo 
-- Mejorar vuestras habilidades de comunicación en público al exponer el proyecto en la sesión final
+2. Comprender cómo manipular el DOM de una página y responder a eventos del usuario
+3. Manejar estructuras de datos complejas, con arrays y objetos 
+4. Realizar peticiones al servidor y almacenar datos en local 
+5. Implementar Scrum como marco de referencia para el desarrollo del producto, basándonos siempre en los valores de Agile como puntos clave del trabajo en equipo y la mejora continua 
+6. Mejorar la comunicación entre los miembros del equipo 
+7. Mejorar vuestras habilidades de comunicación en público al exponer el proyecto en la sesión final
 
 
 
