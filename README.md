@@ -11,13 +11,13 @@ Por eso hemos creado esta aplicación que nos permite hacernos visibles a travé
 En este proyecto vamos a realizar una aplicación web que nos permite crear una tarjeta de visita personalizada. En la página web podemos introducir nuestros datos profesionales y obtener una vista maquetada con esta información. Lo bueno de este proyecto es que será una herramienta de la que os podréis beneficiar. Será una aplicación web interactiva creada por vosotras y que podéis usar para crear vuestras propias tarjetas de visita profesionales.
 
 **Objetivos:** </br>
-1- Aprender los conceptos básicos de programación (variables, estructuras de datos, condicionales, funciones, etc.)</br>
-2- Comprender cómo manipular el DOM de una página y responder a eventos del usuario</br>
-3- Manejar estructuras de datos complejas, con arrays y objetos </br>
-4- Realizar peticiones al servidor y almacenar datos en local </br>
-5- Implementar Scrum como marco de referencia para el desarrollo del producto, basándonos siempre en los valores de Agile como puntos clave del trabajo en equipo y la mejora continua </br>
-6- Mejorar la comunicación entre los miembros del equipo </br>
-7- Mejorar vuestras habilidades de comunicación en público al exponer el proyecto en la sesión final
+* Aprender los conceptos básicos de programación (variables, estructuras de datos, condicionales, funciones, etc.)</br>
+- Comprender cómo manipular el DOM de una página y responder a eventos del usuario</br>
+- Manejar estructuras de datos complejas, con arrays y objetos </br>
+- Realizar peticiones al servidor y almacenar datos en local </br>
+- Implementar Scrum como marco de referencia para el desarrollo del producto, basándonos siempre en los valores de Agile como puntos clave del trabajo en equipo y la mejora continua </br>
+- Mejorar la comunicación entre los miembros del equipo </br>
+- Mejorar vuestras habilidades de comunicación en público al exponer el proyecto en la sesión final
 
 
 
