@@ -13,7 +13,7 @@ En este proyecto vamos a realizar una aplicación web que nos permite crear una 
 
 </br>
 
-**Objetivos:** </br>
+**Objetivos:**
 1. Aprender los conceptos básicos de programación (variables, estructuras de datos, condicionales, funciones, etc.)
 2. Comprender cómo manipular el DOM de una página y responder a eventos del usuario
 3. Manejar estructuras de datos complejas, con arrays y objetos 
