@@ -4,7 +4,7 @@ Komorebi es un concepto japonés que representa la luz del sol al pasar a travé
 
 Queremos ser esa luz en el bosque; esa luz que ilumina el camino. Queremos ganar presencia demostrando nuestra valía y conocimientos para que las que las futuras generaciones tengan un referente en el que apoyarse, del mismo modo en que nosotras hemos tenido con mujeres como Ada Lovelace o Grace Murray.
 
-Por eso hemos creado esta aplicación que nos permite hacernos visibles a través de la creación de tarjetas de visita en las que incluir nuestro puesto de trabajo y datos de contacto.
+Por eso hemos creado esta aplicación que nos permite hacernos visibles a través de la creación de tarjetas de visita en las que incluir nuestro puesto de trabajo y datos de contacto. </br>
 
 
 Resumen: </br>
